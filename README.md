@@ -1,0 +1,2 @@
+This project works in conjunction with the plotly dash frontend (another repo), using Black Scholes to serve it with options data (and some other extra stuff). There is a garch model in here that I never incorporated, and that I am not planning to incorporate.
+To serve the plotly frontend, locallaly host this by writing "fastapi dev main.py" in the project terminal, and then running the app.py file from the other repo. To view the dashboard, ente the IP of the local host into a search engine.
